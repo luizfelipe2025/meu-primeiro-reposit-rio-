@@ -20,6 +20,11 @@ header {
     padding: 10px;
 }
 
+img{
+    width: 200px;
+    height: auto;
+
+}
 section {
     margin-top: 20px;
 }
