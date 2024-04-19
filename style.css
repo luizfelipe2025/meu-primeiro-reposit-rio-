@@ -38,3 +38,7 @@ p {
 
     grid-template-columns: 33.3% 33.3% 33.3%;
 }
+.personagens{
+    width: 200px;
+    height: auto;
+}
